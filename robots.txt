@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oezaeseil.tgerm.org/sitemap.xml
